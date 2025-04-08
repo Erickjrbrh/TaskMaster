@@ -1,0 +1,17 @@
+br\senac\taskmaster\TelaLogin.class
+br\senac\taskmaster\UsuarioDAO.class
+br\senac\taskmaster\TelaDashboard$1.class
+br\senac\taskmaster\Categoria.class
+br\senac\taskmaster\Usuario.class
+br\senac\taskmaster\Tarefa.class
+br\senac\taskmaster\TelaNovaTarefa.class
+br\senac\taskmaster\TelaEditarTarefa.class
+br\senac\taskmaster\TelaLogs.class
+br\senac\taskmaster\TaskMaster.class
+br\senac\taskmaster\TelaDashboard.class
+br\senac\taskmaster\TelaLogs$1.class
+br\senac\taskmaster\TarefaDAO.class
+br\senac\taskmaster\Log.class
+br\senac\taskmaster\LogDAO.class
+br\senac\taskmaster\Conexao.class
+br\senac\taskmaster\TelaCadastro.class
